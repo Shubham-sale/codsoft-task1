@@ -30,5 +30,4 @@ This is my personal portfolio website showcasing my skills and projects. The web
 ### React
 - The website is built using React to create a single-page application with efficient state management and component-based architecture.
 
-## License
 
