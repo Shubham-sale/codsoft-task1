@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Chat App",
+    "imageSrc": "projects/chatapp.png",
+    "description": "This project is a real-time chat application built using the MERN stack.",
+    "skills": ["Html","Css","Javascript","React", "Express", "Node"],
+    "demo": "https://chat-app-igng.onrender.com/",
+    "source": "https://github.com/Shubham-sale/Chat-app"
+  },
+  {
+    "title": "Tic Tac Toe Game",
+    "imageSrc": "projects/tic-tac-toe.png",
+    "description": "This is a simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript",
+    "skills": ["Html", "Css", "Javascript"],
+    "demo": "https://shubham-sale.github.io/PRODIGY_WD_03/",
+    "source": "https://github.com/Shubham-sale/PRODIGY_WD_03"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weather.png",
+    "description": "This is a weather web application built using React. It fetch current weather data.",
+    "skills": ["Html", "Css", "Javascript","React"],
+    "demo": "https://shubzweatherapp.netlify.app/",
+    "source": "https://github.com/Shubham-sale/PRODIGY_WD_05"
+  }
+]

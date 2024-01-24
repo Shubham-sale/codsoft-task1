@@ -1,0 +1,23 @@
+[
+  {
+    "role": "Web Developer Intern",
+    "organisation": "Codsoft",
+    "startDate": "Jan, 2024",
+    "endDate": "Present",
+        "imageSrc": "history/codsoft.jpeg"
+  },
+  {
+    "role": "Web Developer Intern",
+    "organisation": "Lets Grow More",
+    "startDate": "Dec, 2023",
+    "endDate": "Dec, 2023",
+    "imageSrc": "history/letsgrowmore_logo.jpeg"
+  },
+  {
+    "role": "Web Developer Intern",
+    "organisation": "Prodigy Infotech",
+    "startDate": "Nov, 2023",
+    "endDate": "Nov, 2023",
+    "imageSrc": "history/prodigyinfotech.jpeg"
+  }
+]
