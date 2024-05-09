@@ -1,8 +1,24 @@
 [
   {
+    "title": "Your Opinion",
+    "imageSrc": "projects/opinion.png",
+    "description": "This is a feedback app build using Nextjs.",
+    "skills": ["Html","TailwindCSS","Typescript", "Nextjs", "MongoDb"],
+    "demo": "https://youropinion.vercel.app/",
+    "source": "https://github.com/Shubham-sale/youropinion"
+  },
+  {
+    "title": "Blog App",
+    "imageSrc": "projects/blogapp.png",
+    "description": "This is a blog app build using React and Appwrite.",
+    "skills": ["Html","TailwindCSS","Javascript","React","Appwrite"],
+    "demo": "https://blog85.vercel.app/",
+    "source": "https://github.com/Shubham-sale/blog"
+  },
+  {
     "title": "Chat App",
-    "imageSrc": "projects/chatapp.png",
-    "description": "This project is a real-time chat application built using the MERN stack.",
+    "imageSrc": "projects/chat.png",
+    "description": "It is a real-time chat app built using the MERN stack.",
     "skills": ["Html","Css","Javascript","React", "Express", "Node"],
     "demo": "https://chat-app-igng.onrender.com/",
     "source": "https://github.com/Shubham-sale/Chat-app"
@@ -10,7 +26,7 @@
   {
     "title": "Tic Tac Toe Game",
     "imageSrc": "projects/tic-tac-toe.png",
-    "description": "This is a simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript",
+    "description": "It is an interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.",
     "skills": ["Html", "Css", "Javascript"],
     "demo": "https://shubham-sale.github.io/PRODIGY_WD_03/",
     "source": "https://github.com/Shubham-sale/PRODIGY_WD_03"
